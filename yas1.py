@@ -1,10 +1,10 @@
 email = input('Enter your email\n')
 
-if email == 'khangmail.com' and '@' in email:
+if email == 'Abuzarkhangmail.com' and '@' in email:
     print('Correct email')
     password = input('Enter your password\n')
     
-    if password == 'khan':
+    if password == 'Abuzar Khan  12':
         print('Finally Correct password welcome')
     else:
         print('Incorrect password. Please re-enter your password.')
